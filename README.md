@@ -16,7 +16,7 @@
 - 🔭 Je travaille au quotidien sur de la **sécurité défensive** et de l'**infra on-premise**.
 - 🧱 Virtualisation **Proxmox / Ceph**, réseau, pare-feux, sauvegardes, supervision.
 - 🛡️ Détection & durcissement : **SIEM, EDR/NDR, segmentation, PAM, PKI/LDAPS**.
-- 🎓 En Mastère **Cybersécurité & Cloud** — je me spécialise côté **défense / SOC**.
+- 🎓 En Mastère **Cybersécurité & Cloud** je me spécialise côté **défense / SOC**.
 - 🌱 En ce moment : programme interne de **sensibilisation au phishing** (Gophish + site de formation).
 - ⚡ Parcours atypique : **de la menuiserie à la cybersécurité**, j'en ai gardé la rigueur et le goût du travail bien fini.
 
