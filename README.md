@@ -42,13 +42,6 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
----
-
-### 📊 Mon activité
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PMspectre&show_icons=true&theme=tokyonight&hide_border=true" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PMspectre&layout=compact&theme=tokyonight&hide_border=true" height="160">
-</p>
 
 ---
 
